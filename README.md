@@ -47,7 +47,7 @@ Welcome to my GITHUB
 <img align="left" alt="HTML" width="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/html-5.svg" />
 <img align="left" alt="CSS" width="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/css-3.svg" />
 <br/>
-
+<br>
 
 ## Connect with Me through:
 
