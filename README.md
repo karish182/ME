@@ -3,7 +3,7 @@
 Welcome to my GITHUB
 
 * I am an undergraduate student .
-* Passionate in working on **Data Science and Analysis**.
+* Passionate in working on **Generative AI**.
 *  Check my portfolio on [Click here](www.linkedin.com/in/fawwazabdullahk) 
 
 ## Tools and Language:
