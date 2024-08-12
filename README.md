@@ -9,7 +9,7 @@ Welcome to my GITHUB
 ## Tools and Language:
 
 <img align="left" alt="Python" width="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/python.svg">
-<img align="left" alt="Java" width="35px" src="https://github.com/gilbarbara/logos/blob/main/logos/java.svg">
+<img align="left" alt="PyCharm" width="35px" src="https://github.com/gilbarbara/logos/blob/main/logos/pycharm.svg">
 <img align="left" alt="Tableau" width="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/tableau-icon.svg">
 <img align="left" alt="Jyptyer" width="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/jupyter.svg">
 <img align="left" alt="VS Code" width="40px"src="https://github.com/gilbarbara/logos/blob/main/logos/visual-studio-code.svg"/>
