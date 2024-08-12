@@ -36,10 +36,10 @@ Welcome to my GITHUB
 <br>
 
 ## Deployment tools:
-<img align="left" alt="AWS" width="50px" src="https://github.com/gilbarbara/logos/blob/main/logos/aws.svg" />
-<img align="left" alt="Azure" width="50px" src="https://github.com/gilbarbara/logos/blob/main/logos/microsoft-azure.svg" />
-<img align="left" alt="Streamlit" width="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/streamlit.svg" />
 <img align="left" alt="Netlify" width="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/netlify-icon.svg" />
+<img align="left" alt="Streamlit" width="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/streamlit.svg" />
+<img align="left" alt="Azure" width="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/microsoft-azure.svg" />
+<img align="left" alt="AWS" width="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/aws.svg" />
 <br/>
 <br>
 
