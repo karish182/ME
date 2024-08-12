@@ -19,7 +19,7 @@ Welcome to my GITHUB
 <br>
 
 ## Frameworks:
-<img align="left" alt="Streamlit" width="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/streamlit.svg" />
+<img align="left" alt="Streamlit" width="50px" src="https://github.com/gilbarbara/logos/blob/main/logos/streamlit.svg" />
 <img align="left" alt="Flask" width="40px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" />
 <br/>
 <br>
@@ -37,8 +37,8 @@ Welcome to my GITHUB
 
 ## Deployment tools:
 <img align="left" alt="Netlify" width="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/netlify-icon.svg" />
-<img align="left" alt="Streamlit" width="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/streamlit.svg" />
-<img align="left" alt="Azure" width="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/microsoft-azure.svg" />
+<img align="left" alt="Streamlit" width="50px" src="https://github.com/gilbarbara/logos/blob/main/logos/streamlit.svg" />
+<img align="left" alt="Azure" width="30px" src="https://github.com/gilbarbara/logos/blob/main/logos/microsoft-azure.svg" />
 <img align="left" alt="AWS" width="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/aws.svg" />
 <br/>
 <br>
