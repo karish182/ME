@@ -9,7 +9,7 @@ Welcome to my GITHUB
 ## Tools and Language:
 
 <img align="left" alt="Python" width="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/python.svg">
-<img align="left" alt="PyCharm" width="35px" src="https://github.com/gilbarbara/logos/blob/main/logos/pycharm.svg">
+<img align="left" alt="PyCharm" width="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/pycharm.svg">
 <img align="left" alt="Tableau" width="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/tableau-icon.svg">
 <img align="left" alt="Jyptyer" width="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/jupyter.svg">
 <img align="left" alt="VS Code" width="40px"src="https://github.com/gilbarbara/logos/blob/main/logos/visual-studio-code.svg"/>
@@ -19,7 +19,7 @@ Welcome to my GITHUB
 <br>
 
 ## Frameworks:
-<img align="left" alt="DJango" width="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/django-icon.svg" />
+<img align="left" alt="Streamlit" width="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/streamlit.svg" />
 <img align="left" alt="Flask" width="40px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" />
 <br/>
 <br>
@@ -31,12 +31,21 @@ Welcome to my GITHUB
 <img align="left" alt="PyTorch" width="30px" src="https://github.com/gilbarbara/logos/blob/main/logos/pytorch-icon.svg" />
 <img align="left" alt="Pandas" width="30px" src="https://github.com/gilbarbara/logos/blob/main/logos/pandas-icon.svg" />
 <img align="left" alt="Matplotlib" width="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/matplotlib-icon.svg" />
+<img align="left" alt="HuggingFace" width="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/hugging-face-icon.svg" />
 <br/>
 <br>
 
 ## Deployment tools:
-<img align="left" alt="Jira" width="50px" src="https://github.com/gilbarbara/logos/blob/main/logos/aws.svg" />
-<img align="left" alt="Flask" width="50px" src="https://github.com/gilbarbara/logos/blob/main/logos/docker-icon.svg" />
+<img align="left" alt="AWS" width="50px" src="https://github.com/gilbarbara/logos/blob/main/logos/aws.svg" />
+<img align="left" alt="Azure" width="50px" src="https://github.com/gilbarbara/logos/blob/main/logos/microsoft-azure.svg" />
+<img align="left" alt="Streamlit" width="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/streamlit.svg" />
+<img align="left" alt="Netlify" width="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/netlify-icon.svg" />
+<br/>
+<br>
+
+## Web Development
+<img align="left" alt="HTML" width="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/html-5.svg" />
+<img align="left" alt="CSS" width="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/css-3.svg" />
 <br/>
   
 ## Connect with Me through:
