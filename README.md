@@ -2,9 +2,15 @@
 
 Welcome to my GITHUB
 
-* I am an undergraduate student .
-* Passionate in working on **Generative AI**.
-*  Check my portfolio on [Click here](www.linkedin.com/in/fawwazabdullahk) 
+* I am an undergraduate student in B.E. Computer And Communication Engineering
+* Passionate in working on **Data Science**,**Machine Learning**,**Generative AI**.
+*  Check my portfolio on [Click here](linkedin.com/in/karishma-s-m-bbaa47243) 
+
+## Domain
+DATA SCIENCE
+MACHINE LEARNING
+DATA ANALYSIS
+GENERATIVE AI
 
 ## Tools and Language:
 
@@ -51,13 +57,13 @@ Welcome to my GITHUB
 
 ## Connect with Me through:
 
-[<img align="left" alt="Subash | LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align="left" alt="Subash | Instagram" width="30px" src="https://github.com/gilbarbara/logos/blob/main/logos/instagram-icon.svg" />][instagram]
-[<img align="left" alt="Subash | Mail" width="39px" src="https://github.com/gilbarbara/logos/blob/main/logos/google-gmail.svg" />][Mail]
+[<img align="left" alt="Karishma | LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" alt="Karishma | Instagram" width="30px" src="https://github.com/gilbarbara/logos/blob/main/logos/instagram-icon.svg" />][instagram]
+[<img align="left" alt="Karishma | Mail" width="39px" src="https://github.com/gilbarbara/logos/blob/main/logos/google-gmail.svg" />][Mail]
 
-[linkedin]: https://www.linkedin.com/in/fawwaz-abdullah-k-b7b1a4243/
-[instagram]: https://instagram.com/
-[Mail]: fawwazabdullah11@gmail.com
+[linkedin]: https://www.linkedin.com/in/karishma-s-m-bbaa47243/?trk=opento_sprofile_details
+[instagram]: https://www.instagram.com/karish._.zz/?hl=en
+[Mail]: karishma.sm2021cce@sece.ac.in
 <div>
 <br/>
 </div>
