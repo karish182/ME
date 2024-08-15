@@ -8,8 +8,11 @@ Welcome to my GITHUB
 
 ## Domain
 DATA SCIENCE
+
 MACHINE LEARNING
+
 DATA ANALYSIS
+
 GENERATIVE AI
 
 ## Tools and Language:
